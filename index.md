@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+# ERP Journey!
 
-You can use the [editor on GitHub](https://github.com/ThomasHPaul/thomashpaul.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Yep, you heard right! I will be building an ERP system in Java!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Software:
+Let's look at the lineup of winning technologies:
+- Java SE
+- JavaFX
+- CSS (for customizing the GUI)
+- PostgreSQL (for data persistence)
+- JPA for accessing this data
+- JUnit5 & Mockito for testing
+
+How can all this be accomplished?
+
+## Tools and Methodologies:
+- Jira
+- Intellij CE & Eclispe [Comparison](https://thomaspaul.atlassian.net/wiki/spaces/CL/overview)
+- TDD
+- [Clean coding](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (_thank you Uncle Bob!_)
+
 
 ### Markdown
 

@@ -27,6 +27,6 @@ After setting up the first sprint, I banged out a perfect program...WAIT!!!
 
 Superior software arises from design considerations, let's look at some UML and flowcharts I created.
 
-<img src="assets/ERP.png" alt="UML diagram for ERP software" class="inline"/>
+<img src="assets/ERP.PNG" alt="UML diagram for ERP software" class="inline"/>
 
 _picutre of flowcharts according to the user story interactions_

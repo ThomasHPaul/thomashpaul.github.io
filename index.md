@@ -25,7 +25,7 @@ How can all this be accomplished?
 To start with, I created some user stories in JIRA and this Github Page to catalogue my journey.
 After setting up the first sprint, I banged out a perfect program...WAIT!!!
 
-Superior architecture arises from design considerations, let's look at some UML and flowcharts I created.
+Superior software arises from design considerations, let's look at some UML and flowcharts I created.
 
 _picture of UML_
 
